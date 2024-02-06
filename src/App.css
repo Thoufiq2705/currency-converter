@@ -1,0 +1,36 @@
+
+body{
+  background-color: #2B3A48;
+  overflow: hidden;
+}
+
+.text-clr{
+  color: #4689d4;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.common-text{
+  font-size: 16px;
+  color: #00000083;
+  font-weight: 500;
+  text-transform: capitalize;
+  margin-bottom: 5px;
+}
+.common-input{
+  margin-bottom: 15px;
+  border: .5px solid #0000004d;
+  border-radius: 3px;
+  padding: 5px;
+  overflow-y: scroll;
+}
+.result{
+  width: 100%;
+  text-align: center;
+  padding: 25px;
+  border: 1px dashed #4689d4;
+  margin-top: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #4689d4;
+}
